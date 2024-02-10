@@ -1,4 +1,6 @@
-![1707518234636.jpg](https://github.com/JheanAntunes/praticas-final-css/assets/120582814/2ce91a3f-3e37-4f6d-8298-c48022091cea)
+  
+![1707600762119.jpg](https://github.com/JheanAntunes/newsHomepage/assets/120582814/3ec19c2c-801a-4d15-93d1-e1b3ce9e9944)
+
 
 <h1 align="center">Olá 👋, meu nome é Jhean</h1>
 <h3 align="center">um jovem que está na jornada de front-end 💅 </h3>

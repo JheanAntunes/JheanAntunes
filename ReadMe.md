@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Jhean
+Olá 👋 
 ======================
 
 Desenvolvedor Front-end, Mestre em front-end ?

@@ -4,7 +4,6 @@ Olá 👋 Meu nome é Jhean
 Desenvolvedor Front-end, Mestre em front-end ?
 ----------------------------------------------
 
-* 🌍  Estou localizado no RJ
 * 🖥️  Veja meu portfólio no [MeuPortfólio](http://https://portfolio-jheanantunes-projects.vercel.app/)
 * ✉️  Você pode entrar em contato comigo em [jheanantuneslopes@gmail.com](mailto:jheanantuneslopes@gmail.com)
 * 🧠  Estou aprendendo backend

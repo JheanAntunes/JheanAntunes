@@ -1,7 +1,7 @@
 👋 Sobre mim:
 ======================
 
-Desenvolvedor Front-end, Mestre em front-end ?
+Mestre em front-end ?
 ----------------------------------------------
 
 * 🖥️  Veja meu portfólio no [MeuPortfólio](http://https://portfolio-jheanantunes-projects.vercel.app/)

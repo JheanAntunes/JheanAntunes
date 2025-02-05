@@ -1,6 +1,6 @@
 👋 Mestre em front-end ?
 ======================
-* 🖥️  Veja meu portfólio no [MeuPortfólio](http://https://portfolio-jheanantunes-projects.vercel.app/)
+* 🖥️  Veja meu [Portfólio-Jheanantunes](http://https://portfolio-jheanantunes-projects.vercel.app/)
 * ✉️  Você pode entrar em contato comigo em [jheanantuneslopes@gmail.com](mailto:jheanantuneslopes@gmail.com)
 * 🧠  Estou aprendendo backend
 * 🤝  Estou aberto a colaborar em projetos desde a sua criação ou seu final
